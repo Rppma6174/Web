@@ -3,13 +3,7 @@ html, body {
     margin: 0;
     background-color: bisque;
 }
-.pengatur {
-    position: relative;
-}
 #logo {
-    position: absolute;
-    top: 5px;
-    left: 20px;
     height: 100px;
     display: grid;
     align-items: center;
@@ -21,7 +15,7 @@ html, body {
     width: 100%;
     background-color: black;
     margin: 0;
-    display: grid;
+    display: flex;
     justify-content: center;
     align-items: center;
     font-family: 'courier new';
