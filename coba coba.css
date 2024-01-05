@@ -5,8 +5,17 @@ html, body {
 }
 #logo {
     height: 100px;
+}
+.konten0 {
     display: grid;
+    margin: 0;
     align-items: center;
+    justify-content: center;
+    font-family: 'courier new';
+    letter-spacing: 10px;
+    width: 871.2px;
+    height: 100%;
+    margin-left: 10px;
 }
 .awalan {
     color: white;
@@ -15,12 +24,7 @@ html, body {
     width: 100%;
     background-color: black;
     margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: 'courier new';
-    letter-spacing: 10px;
-
+    display: flex; 
 }
 .tingkat2 {
     display: grid;
