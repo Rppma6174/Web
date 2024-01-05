@@ -3,6 +3,9 @@ html, body {
     margin: 0;
     background-color: bisque;
 }
+.pengatur {
+    position: relative;
+}
 #logo {
     position: absolute;
     top: 5px;
